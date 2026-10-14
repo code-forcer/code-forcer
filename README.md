@@ -16,17 +16,27 @@
 
 ---
 
-I build production systems end-to-end — mobile apps, backend APIs, engineering simulations, and everything in between. 5+ years shipping real products across fintech, transport, and industrial tooling, both freelance and full-time.
+I design and build production-grade digital systems from idea to deployment — mobile apps, backend APIs, fintech workflows, and research-driven engineering tools.
 
-Currently a **Software Engineer at FluidIt**. Also pursuing a **B.Eng. in Agricultural & Environmental Engineering at FUTA**, where I apply software to real physical problems: gasifier simulations, drying model CFDs, and structural material research.
+Currently a **Software Engineer at FluidIt**, and I continue to grow through applied engineering work in agriculture, energy, and industrial systems. I combine product thinking, systems design, and physical-world problem solving to build software that creates measurable value.
 
-> Open to senior roles, fintech infrastructure, and simulation/industrial SaaS tooling.
+> Open to senior engineering roles, fintech infrastructure, industrial SaaS, and high-impact product work.
+
+---
+
+## 🚀 What I Build
+
+- Cross-platform mobile apps with modern UX and production-ready architecture
+- Backend services and API systems for real-world products
+- Authentication, onboarding, payments, and user trust flows
+- Simulation, analysis, and decision-support tools for technical domains
+- Full-stack products that connect business logic with real users and operations
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile & Web**
+### Mobile & Web
 
 ![Flutter](https://img.shields.io/badge/Flutter-f4f4f4?style=flat-square&logo=flutter&logoColor=0ea4ff)
 ![React](https://img.shields.io/badge/React-f4f4f4?style=flat-square&logo=react&logoColor=0ea4ff)
@@ -35,14 +45,14 @@ Currently a **Software Engineer at FluidIt**. Also pursuing a **B.Eng. in Agricu
 ![TypeScript](https://img.shields.io/badge/TypeScript-f4f4f4?style=flat-square&logo=typescript&logoColor=0ea4ff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-f4f4f4?style=flat-square&logo=tailwind-css&logoColor=0ea4ff)
 
-**Backend & Systems**
+### Backend & Systems
 
 ![Go](https://img.shields.io/badge/Go-f4f4f4?style=flat-square&logo=go&logoColor=0ea4ff)
 ![Node.js](https://img.shields.io/badge/Node.js-f4f4f4?style=flat-square&logo=node.js&logoColor=0ea4ff)
 ![Python](https://img.shields.io/badge/Python-f4f4f4?style=flat-square&logo=python&logoColor=0ea4ff)
 ![Laravel](https://img.shields.io/badge/Laravel-f4f4f4?style=flat-square&logo=laravel&logoColor=0ea4ff)
 
-**Data & Infrastructure**
+### Data & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-f4f4f4?style=flat-square&logo=postgresql&logoColor=0ea4ff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-f4f4f4?style=flat-square&logo=mongodb&logoColor=0ea4ff)
@@ -50,65 +60,60 @@ Currently a **Software Engineer at FluidIt**. Also pursuing a **B.Eng. in Agricu
 ![Docker](https://img.shields.io/badge/Docker-f4f4f4?style=flat-square&logo=docker&logoColor=0ea4ff)
 ![Linux](https://img.shields.io/badge/Fedora_Linux-f4f4f4?style=flat-square&logo=fedora&logoColor=0ea4ff)
 
-**Engineering & Research**
+### Engineering & Research
 
 `ANSYS` `SolidWorks` `Python (NumPy · SciPy · Matplotlib)` `Statistical Modeling (RSM)`
 
 ---
 
-## 📌 Selected Work
+## 📌 Featured Work
 
 ### FareSort
 **Flutter · Go · PostgreSQL · REST APIs**
 
-Nigerian transport and ride platform. Built the full authentication and onboarding flow including NIN/BVN identity verification via REST, biometric login architecture, OTP modal guard, and user profile management.
-
----
+Transport and ride platform built for real users in Nigeria. I handled the authentication and onboarding journey including NIN/BVN verification workflows, biometric login strategy, OTP guard flows, and user profile experience for a trust-heavy product.
 
 ### AOG TechHub App
 **Flutter · Go · MongoDB · Paystack**
 
-Coworking hub platform for Akure's tech ecosystem. Full monorepo covering desk booking, QR check-in, wallet, programs, Paystack payment integration, and JWT/OAuth authentication — clean architecture throughout.
-
----
+A full platform for Akure's growing tech community, covering desk booking, QR-based check-in, wallet logic, programs, Paystack payments, and secure JWT/OAuth authentication. Built as a clean, extensible monorepo with user-centered product flows.
 
 ### [ltigbackend](https://github.com/code-forcer/ltigbackend)
 **Go**
 
-High-throughput backend server. Fast, minimal, and production-focused.
-
----
+High-throughput backend service focused on speed, simplicity, and production reliability.
 
 ### [leketheinfoguy](https://github.com/code-forcer/leketheinfoguy)
 **Full-Stack**
 
-Community Q&A platform built for seamless knowledge sharing and engagement.
-
----
+Community-driven Q&A platform built to support discovery, learning, and engagement.
 
 ### [letscall](https://github.com/code-forcer/letscall)
 **WebRTC · Full-Stack**
 
-Real-time video chat application.
+Real-time video communication app built to explore live interaction and collaborative product experiences.
 
 ---
 
-## ⚙️ Engineering Research
+## ⚙️ Engineering Research & Applied Work
 
-What makes this profile different from most software engineers: I apply code to real physical systems.
+I bring software thinking into real systems, not just dashboards and web apps.
 
 **Downdraft Gasifier Simulation** · *FUTA Final Year Project*
-Built a Python-based GUI dashboard as a practical ANSYS alternative for visualizing thermal and flow parameters in a downdraft biomass gasifier.
+
+Developed a Python-based GUI dashboard as a practical alternative to ANSYS for visualizing thermal and flow characteristics in a downdraft biomass gasifier.
 
 **Lightweight Concrete (LWC) Research**
-Statistical modelling of compressive strength using EPS and PKS aggregates. Response Surface Methodology (RSM) with a second-order polynomial model — R² = 0.9694. Produced full interaction and quadratic analyses.
+
+Built statistical models for compressive strength using EPS and PKS aggregates using Response Surface Methodology (RSM), achieving R² = 0.9694. This included interaction and quadratic analysis to understand performance behavior under different material combinations.
 
 **Solar Greenhouse Dryer (SGD) CFD Simulation**
-ANSYS simulation with a custom C-language UDF implementing the Page thin-layer drying model. Full GCI mesh independence protocol validated.
+
+Used ANSYS with a custom C-language UDF implementing the Page thin-layer drying model. The work included mesh independence checks and validation through GCI methodology.
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -122,11 +127,12 @@ ANSYS simulation with a custom C-language UDF implementing the Page thin-layer d
 
 ## 🤝 Let's Work Together
 
-I'm open to:
+I’m open to:
 
-- Senior full-stack roles (web, mobile, or backend-heavy)
-- Fintech infrastructure and payment system work
-- Industrial SaaS tools bridging software and physical engineering
+- Senior full-stack engineering roles
+- Fintech infrastructure and payments work
+- Industrial SaaS and technical product systems
+- Simulation and engineering software
 - Mentorship and technical writing
 
 **Reach me:** [codeforcerdev@gmail.com](mailto:codeforcerdev@gmail.com) · [Portfolio](https://codeforcer.vercel.app) · [LinkedIn](https://www.linkedin.com/in/temitope-adeleke-8150a6319)
